@@ -1,0 +1,3 @@
+= reploop-bom
+
+This is parent pom for all maven projects in reploop. 
