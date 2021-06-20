@@ -122,6 +122,12 @@
         <enforcer.plugin.version>3.0.0-M3</enforcer.plugin.version>
         <surefire.plugin.version>3.0.0-M5</surefire.plugin.version>
     </properties>
+    <scm>
+        <connection>scm:git:https://github.com/reploop/reploop-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:reploop/reploop-bom.git</developerConnection>
+        <url>https://github.com/reploop/reploop-bom</url>
+        <tag>HEAD</tag>
+    </scm>
     <build>
         <resources>
             <resource>
@@ -918,7 +924,7 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/georgecao/reploop-bom</url>
+            <url>https://maven.pkg.github.com/reploop/reploop-bom</url>
         </repository>
     </distributionManagement>
 </project>
