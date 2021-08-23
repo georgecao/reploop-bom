@@ -66,7 +66,7 @@
         <selenium.version>3.141.59</selenium.version>
         <aspectjweaver.version>1.9.7</aspectjweaver.version>
         <micrometer.version>1.7.1</micrometer.version>
-        <mysql.connector.version>8.0.25</mysql.connector.version>
+        <mysql.connector.version>8.0.26</mysql.connector.version>
         <mongodb.driver.sync.version>4.2.3</mongodb.driver.sync.version>
         <logback.version>1.2.3</logback.version>
         <netty.version>4.1.63.Final</netty.version>
