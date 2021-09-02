@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
-        <spring.statemachine.version>3.0.0</spring.statemachine.version>
+        <spring.statemachine.version>3.0.1</spring.statemachine.version>
         <reflections.version>0.9.12</reflections.version>
         <jmh.version>1.33</jmh.version>
         <openfeign.version>11.2</openfeign.version>
