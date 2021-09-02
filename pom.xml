@@ -88,7 +88,7 @@
         <alibaba.nacos.discovery.version>0.9.0.RELEASE</alibaba.nacos.discovery.version>
         <druid.spring.boot.version>1.2.6</druid.spring.boot.version>
         <druid.version>1.2.6</druid.version>
-        <fastjson.version>1.2.76</fastjson.version>
+        <fastjson.version>1.2.78</fastjson.version>
         <swagger.spring.boot.version>1.9.1.RELEASE</swagger.spring.boot.version>
         <swagger.bootstrap.ui.version>1.9.6</swagger.bootstrap.ui.version>
         <mybatis.plus.version>3.4.1</mybatis.plus.version>
@@ -96,7 +96,7 @@
         <tika.version>1.25</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
         <aliyun.java.sdk.ons.version>3.1.7</aliyun.java.sdk.ons.version>
-        <aliyun.java.sdk.core.version>4.5.21</aliyun.java.sdk.core.version>
+        <aliyun.java.sdk.core.version>4.5.25</aliyun.java.sdk.core.version>
         <skywalking.version>6.5.0</skywalking.version>
         <mockito.version>1.10.19</mockito.version>
         <mockito.core.version>3.12.1</mockito.core.version>
