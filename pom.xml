@@ -93,7 +93,7 @@
         <swagger.bootstrap.ui.version>1.9.6</swagger.bootstrap.ui.version>
         <mybatis.plus.version>3.4.1</mybatis.plus.version>
         <xxl.job.version>2.2.0</xxl.job.version>
-        <tika.version>1.25</tika.version>
+        <tika.version>2.1.0</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
         <aliyun.java.sdk.ons.version>3.1.7</aliyun.java.sdk.ons.version>
         <aliyun.java.sdk.core.version>4.5.25</aliyun.java.sdk.core.version>
