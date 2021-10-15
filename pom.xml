@@ -63,7 +63,7 @@
         <mybatis.spring.version>2.0.6</mybatis.spring.version>
         <mybatis.spring.boot.version>2.3.0</mybatis.spring.boot.version>
         <mybatis.pagehelper.version>5.2.1</mybatis.pagehelper.version>
-        <selenium.version>3.141.59</selenium.version>
+        <selenium.version>4.0.0</selenium.version>
         <aspectjweaver.version>1.9.7</aspectjweaver.version>
         <micrometer.version>1.7.4</micrometer.version>
         <mysql.connector.version>8.0.26</mysql.connector.version>
