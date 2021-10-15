@@ -65,7 +65,7 @@
         <mybatis.pagehelper.version>5.2.1</mybatis.pagehelper.version>
         <selenium.version>3.141.59</selenium.version>
         <aspectjweaver.version>1.9.7</aspectjweaver.version>
-        <micrometer.version>1.7.4</micrometer.version>
+        <micrometer.version>1.7.5</micrometer.version>
         <mysql.connector.version>8.0.26</mysql.connector.version>
         <mongodb.driver.sync.version>4.3.2</mongodb.driver.sync.version>
         <logback.version>1.2.6</logback.version>
@@ -79,7 +79,7 @@
         <commons.math3.version>3.6.1</commons.math3.version>
         <json.version>20210307</json.version>
         <skipTests>true</skipTests>
-        <jackson.version>2.12.5</jackson.version>
+        <jackson.version>2.13.0</jackson.version>
         <hibernate.validator.version>6.2.0.Final</hibernate.validator.version>
         <gson.version>2.8.8</gson.version>
         <javax.annotation.api.version>1.3.2</javax.annotation.api.version>
