@@ -26,7 +26,7 @@
         <commons.compress.version>1.21</commons.compress.version>
         <commons.fileupload.version>1.4</commons.fileupload.version>
         <xstream.version>1.4.18</xstream.version>
-        <aliyun.sdk.version>3.13.1</aliyun.sdk.version>
+        <aliyun.sdk.version>3.13.2</aliyun.sdk.version>
         <phoenix.version>5.1.2</phoenix.version>
         <aliyun.log.version>0.6.67</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.0</aliyun.java.sdk.sts.version>
