@@ -37,6 +37,7 @@
         <assertj.version>3.21.0</assertj.version>
         <antlr4.version>4.9.3</antlr4.version>
         <antlr4.st4.version>4.3.1</antlr4.st4.version>
+        <commons.text.version>1.9</commons.text.version>
         <knife4j.version>3.0.3</knife4j.version>
         <swagger2.version>3.0.0</swagger2.version>
         <swagger.annotions.version>1.6.3</swagger.annotions.version>
@@ -495,6 +496,11 @@
                 <groupId>org.antlr</groupId>
                 <artifactId>ST4</artifactId>
                 <version>${antlr4.st4.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-text</artifactId>
+                <version>${commons.text.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.springfox</groupId>
