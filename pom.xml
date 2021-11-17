@@ -97,7 +97,7 @@
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
         <aliyun.java.sdk.ons.version>3.1.7</aliyun.java.sdk.ons.version>
         <aliyun.java.sdk.core.version>4.5.30</aliyun.java.sdk.core.version>
-        <skywalking.version>6.5.0</skywalking.version>
+        <skywalking.version>8.8.0</skywalking.version>
         <mockito.version>1.10.19</mockito.version>
         <mockito.core.version>4.0.0</mockito.core.version>
         <aliyun.ons.client.version>2.0.0.Final</aliyun.ons.client.version>
