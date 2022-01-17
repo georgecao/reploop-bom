@@ -46,7 +46,7 @@
         <slf4j.version>1.7.33</slf4j.version>
         <servlet.api.version>4.0.3</servlet.api.version>
         <httpclient.version>4.5.13</httpclient.version>
-        <httpcore.version>4.4.14</httpcore.version>
+        <httpcore.version>4.4.15</httpcore.version>
         <caffeine.version>3.0.4</caffeine.version>
         <protobuf.version>3.19.3</protobuf.version>
         <thrift.version>0.15.0</thrift.version>
