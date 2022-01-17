@@ -30,7 +30,7 @@
         <phoenix.version>5.1.2</phoenix.version>
         <aliyun.log.version>0.6.68</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.0</aliyun.java.sdk.sts.version>
-        <aliyun.java.sdk.cms.version>7.0.25</aliyun.java.sdk.cms.version>
+        <aliyun.java.sdk.cms.version>7.0.26</aliyun.java.sdk.cms.version>
         <alipay.sdk.java.version>4.22.17.ALL</alipay.sdk.java.version>
         <alipay.easysdk.version>2.2.1</alipay.easysdk.version>
         <springdoc.version>1.5.13</springdoc.version>
