@@ -67,7 +67,7 @@
         <mybatis.pagehelper.version>5.3.0</mybatis.pagehelper.version>
         <selenium.version>4.0.0</selenium.version>
         <aspectjweaver.version>1.9.7</aspectjweaver.version>
-        <micrometer.version>1.8.0</micrometer.version>
+        <micrometer.version>1.8.2</micrometer.version>
         <mysql.connector.version>8.0.27</mysql.connector.version>
         <mongodb.driver.sync.version>4.4.0</mongodb.driver.sync.version>
         <logback.version>1.2.7</logback.version>
@@ -93,7 +93,7 @@
         <fastjson.version>1.2.78</fastjson.version>
         <swagger.spring.boot.version>2.0.1.RELEASE</swagger.spring.boot.version>
         <swagger.bootstrap.ui.version>1.9.6</swagger.bootstrap.ui.version>
-        <mybatis.plus.version>3.4.1</mybatis.plus.version>
+        <mybatis.plus.version>3.5.0</mybatis.plus.version>
         <xxl.job.version>2.2.0</xxl.job.version>
         <tika.version>2.1.0</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
