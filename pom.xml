@@ -62,7 +62,7 @@
         <spring.version>5.3.15</spring.version>
         <spring.amqp.version>2.4.2</spring.amqp.version>
         <mybatis.version>3.5.9</mybatis.version>
-        <mybatis.spring.version>2.0.6</mybatis.spring.version>
+        <mybatis.spring.version>2.0.7</mybatis.spring.version>
         <mybatis.spring.boot.version>2.3.0</mybatis.spring.boot.version>
         <mybatis.pagehelper.version>5.3.0</mybatis.pagehelper.version>
         <selenium.version>4.1.1</selenium.version>
