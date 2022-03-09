@@ -77,7 +77,7 @@
         <hikaricp.version>5.0.1</hikaricp.version>
         <kryo.version>5.3.0</kryo.version>
         <deploy.env>dev</deploy.env>
-        <guava.version>31.0.1-jre</guava.version>
+        <guava.version>31.1-jre</guava.version>
         <commons.math3.version>3.6.1</commons.math3.version>
         <json.version>20211205</json.version>
         <skipTests>true</skipTests>
