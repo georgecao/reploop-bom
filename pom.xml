@@ -58,7 +58,7 @@
         <spring.security.version>5.6.2</spring.security.version>
         <spring.boot.version>2.6.4</spring.boot.version>
         <spring.cloud.version>2021.0.1</spring.cloud.version>
-        <spring.cloud.config.version>3.1.0</spring.cloud.config.version>
+        <spring.cloud.config.version>3.1.1</spring.cloud.config.version>
         <spring.version>5.3.16</spring.version>
         <spring.amqp.version>2.4.2</spring.amqp.version>
         <mybatis.version>3.5.9</mybatis.version>
