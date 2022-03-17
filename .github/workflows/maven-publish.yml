@@ -29,6 +29,6 @@ jobs:
       - name: Publish to GitHub Packages Apache Maven
         run: |
           cat ~/.m2/settings.xml
-          mvn clean deploy
+          mvn -DuseGitHubPackages=true clean deploy
         env:
           GITHUB_TOKEN: ${{ github.token }}
