@@ -122,7 +122,7 @@
         <release.plugin.version>3.0.0-M5</release.plugin.version>
         <enforcer.plugin.version>3.0.0</enforcer.plugin.version>
         <surefire.plugin.version>3.0.0-M5</surefire.plugin.version>
-        <nexus.staging.plugin.version>1.6.7</nexus.staging.plugin.version>
+        <nexus.staging.plugin.version>1.6.12</nexus.staging.plugin.version>
     </properties>
     <scm>
         <connection>scm:git:https://github.com/reploop/reploop-bom.git</connection>
