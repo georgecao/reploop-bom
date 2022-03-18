@@ -26,13 +26,13 @@ jobs:
           java-version: '11'
           distribution: 'adopt'
       - uses: s4u/maven-settings-action@v2.5.0
-          with:
-            servers: |
-              [{
-                  "id": "ossrh",
-                  "username": "${{ secrets.OSSRH_USERNAME }}",
-                  "password": "${{ secrets.OSSRH_PASSWORD }}"
-              }]
+        with:
+          servers: |
+            [{
+              "id": "ossrh",
+              "username": "${{ secrets.OSSRH_USERNAME }}",
+              "password": "${{ secrets.OSSRH_PASSWORD }}"
+            }]
       - name: Publish to OSSRH
         run: |
           cat ~/.m2/settings.xml
