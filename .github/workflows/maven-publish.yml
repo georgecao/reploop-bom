@@ -25,19 +25,12 @@ jobs:
         with:
           java-version: '11'
           distribution: 'temurin'
-      - uses: s4u/maven-settings-action@v2.5.0
-        with:
-          servers: |
-            [{
-              "id": "ossrh",
-              "username": "${{ secrets.OSSRH_USERNAME }}",
-              "password": "${{ secrets.OSSRH_PASSWORD }}"
-            }]
+          server-id: 'ossrh'
+          server-username: ${{ secrets.OSSRH_USERNAME }}
+          server-password: ${{ secrets.OSSRH_PASSWORD }}
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          gpg-passphrase: ${{ secrets.GPG_PASSPHRASE }}
       - name: Publish to OSSRH
         run: |
+          cat ~/.m2/settings.xml
           mvn clean deploy
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-          GPG_KEYNAME: ${{ secrets.GPG_KEYNAME }}
-          GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
