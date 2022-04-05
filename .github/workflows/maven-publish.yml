@@ -32,8 +32,8 @@ jobs:
           gpg-passphrase: ${{ secrets.GPG_PASSPHRASE }}
       - name: Publish to OSSRH
         run: |
-          echo "passphrase: ${gpg.passphrase}" 
-          echo "keyname: ${gpg.keyname}" 
+          echo "passphrase: $gpg.passphrase" 
+          echo "keyname: $gpg.keyname" 
           gpg --version
           gpg --list-secret-keys --keyid-format long
           cat ~/.m2/settings.xml
