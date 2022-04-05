@@ -37,5 +37,5 @@ jobs:
           mvn clean deploy -X
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-          GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+          gpg.passphrase: ${{ secrets.GPG_PASSPHRASE }}
           GPG_KEYNAME: ${{ secrets.GPG_KEYNAME }}
