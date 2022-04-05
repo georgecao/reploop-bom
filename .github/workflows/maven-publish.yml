@@ -33,9 +33,10 @@ jobs:
       - name: Publish to OSSRH
         run: |
           gpg --version
+          gpg --list-secret-keys --keyid-format long
           cat ~/.m2/settings.xml
           mvn clean deploy -X
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           gpg.passphrase: ${{ secrets.GPG_PASSPHRASE }}
-          GPG_KEYNAME: ${{ secrets.GPG_KEYNAME }}
+          gpg.keyname: ${{ secrets.GPG_KEYNAME }}
