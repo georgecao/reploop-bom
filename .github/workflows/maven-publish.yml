@@ -34,13 +34,8 @@ jobs:
           gpg-passphrase: GPG_PASSPHRASE
           cache: 'maven'
       - name: Publish to OSSRH
-        run: |
-          echo "passphrase: $GPG_PASSPHRASE" 
-          echo "keyname: $GPG_KEYNAME" 
-          gpg --version
-          gpg --list-secret-keys --keyid-format long
-          cat ~/.m2/settings.xml
-          mvn clean deploy -X
+        run:
+          mvn clean deploy
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
