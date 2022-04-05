@@ -236,8 +236,8 @@
                 <version>${maven.gpg.plugin.version}</version>
                 <configuration>
                     <gpgArguments>
-                        <gpgArgument>--pinentry-mode</gpgArgument>
-                        <gpgArgument>loopback</gpgArgument>
+                        <arg>--pinentry-mode</arg>
+                        <arg>loopback</arg>
                     </gpgArguments>
                 </configuration>
                 <executions>
