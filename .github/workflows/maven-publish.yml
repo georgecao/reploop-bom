@@ -32,5 +32,6 @@ jobs:
           gpg-passphrase: ${{ secrets.GPG_PASSPHRASE }}
       - name: Publish to OSSRH
         run: |
+          gpg --version
           cat ~/.m2/settings.xml
           mvn clean deploy
