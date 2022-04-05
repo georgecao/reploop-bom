@@ -34,7 +34,7 @@ jobs:
         run: |
           gpg --version
           cat ~/.m2/settings.xml
-          mvn clean deploy
+          mvn clean deploy -X
         env:
           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
           GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
