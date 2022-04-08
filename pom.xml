@@ -15,7 +15,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
         <h2.version>2.1.210</h2.version>
-        <spring.statemachine.version>3.0.1</spring.statemachine.version>
+        <spring.statemachine.version>3.1.0</spring.statemachine.version>
         <reflections.version>0.10.2</reflections.version>
         <jmh.version>1.35</jmh.version>
         <openfeign.version>11.8</openfeign.version>
