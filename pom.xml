@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
-        <h2.version>2.1.210</h2.version>
+        <h2.version>2.1.212</h2.version>
         <spring.statemachine.version>3.1.0</spring.statemachine.version>
         <reflections.version>0.10.2</reflections.version>
         <jmh.version>1.35</jmh.version>
@@ -32,11 +32,11 @@
         <aliyun.log.version>0.6.69</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.0</aliyun.java.sdk.sts.version>
         <aliyun.java.sdk.cms.version>7.0.39</aliyun.java.sdk.cms.version>
-        <alipay.sdk.java.version>4.22.81.ALL</alipay.sdk.java.version>
+        <alipay.sdk.java.version>4.22.86.ALL</alipay.sdk.java.version>
         <alipay.easysdk.version>2.2.1</alipay.easysdk.version>
         <springdoc.version>1.6.7</springdoc.version>
         <assertj.version>3.22.0</assertj.version>
-        <antlr4.version>4.9.3</antlr4.version>
+        <antlr4.version>4.10</antlr4.version>
         <antlr4.st4.version>4.3.3</antlr4.st4.version>
         <commons.text.version>1.9</commons.text.version>
         <knife4j.version>3.0.3</knife4j.version>
@@ -60,7 +60,7 @@
         <spring.boot.version>2.6.6</spring.boot.version>
         <spring.cloud.version>2021.0.1</spring.cloud.version>
         <spring.cloud.config.version>3.1.1</spring.cloud.config.version>
-        <spring.version>5.3.18</spring.version>
+        <spring.version>5.3.19</spring.version>
         <spring.amqp.version>2.4.3</spring.amqp.version>
         <mybatis.version>3.5.9</mybatis.version>
         <mybatis.spring.version>2.0.7</mybatis.spring.version>
@@ -72,7 +72,7 @@
         <mysql.connector.version>8.0.28</mysql.connector.version>
         <mongodb.driver.sync.version>4.5.1</mongodb.driver.sync.version>
         <logback.version>1.2.11</logback.version>
-        <netty.version>4.1.75.Final</netty.version>
+        <netty.version>4.1.76.Final</netty.version>
         <junit.version>4.13.2</junit.version>
         <testng.version>7.5</testng.version>
         <hikaricp.version>5.0.1</hikaricp.version>
@@ -89,8 +89,8 @@
         <validation.api.version>2.0.1.Final</validation.api.version>
         <jakarta.validation.api.version>3.0.1</jakarta.validation.api.version>
         <alibaba.nacos.discovery.version>0.9.0.RELEASE</alibaba.nacos.discovery.version>
-        <druid.spring.boot.version>1.2.8</druid.spring.boot.version>
-        <druid.version>1.2.8</druid.version>
+        <druid.spring.boot.version>1.2.9</druid.spring.boot.version>
+        <druid.version>1.2.9</druid.version>
         <fastjson.version>1.2.80</fastjson.version>
         <swagger.spring.boot.version>2.0.2</swagger.spring.boot.version>
         <swagger.bootstrap.ui.version>1.9.6</swagger.bootstrap.ui.version>
