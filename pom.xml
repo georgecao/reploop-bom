@@ -131,7 +131,7 @@
         <maven.core.version>3.8.5</maven.core.version>
         <maven.plugin.api.version>3.8.5</maven.plugin.api.version>
         <maven.plugin.plugin.version>3.6.4</maven.plugin.plugin.version>
-        <maven.javadoc.plugin.version>3.3.2</maven.javadoc.plugin.version>
+        <maven.javadoc.plugin.version>3.4.0</maven.javadoc.plugin.version>
         <maven.gpg.plugin.version>3.0.1</maven.gpg.plugin.version>
         <sisu.version>0.3.5</sisu.version>
     </properties>
