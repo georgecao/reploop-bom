@@ -135,6 +135,7 @@
         <maven.gpg.plugin.version>3.0.1</maven.gpg.plugin.version>
         <sisu.version>0.3.5</sisu.version>
         <resilience4j.version>1.7.1</resilience4j.version>
+        <woodstox.version>6.2.8</woodstox.version>
     </properties>
     <scm>
         <connection>scm:git:https://github.com/reploop/reploop-bom.git</connection>
@@ -376,6 +377,11 @@
     </dependencies>
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>com.fasterxml.woodstox</groupId>
+                <artifactId>woodstox-core</artifactId>
+                <version>${woodstox.version}</version>
+            </dependency>
             <dependency>
                 <groupId>io.github.resilience4j</groupId>
                 <artifactId>resilience4j-circuitbreaker</artifactId>
