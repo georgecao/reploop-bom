@@ -68,7 +68,7 @@
         <mybatis.pagehelper.version>5.3.0</mybatis.pagehelper.version>
         <selenium.version>4.1.4</selenium.version>
         <aspectjweaver.version>1.9.9.1</aspectjweaver.version>
-        <micrometer.version>1.8.5</micrometer.version>
+        <micrometer.version>1.8.6</micrometer.version>
         <mysql.connector.version>8.0.29</mysql.connector.version>
         <mongodb.driver.sync.version>4.6.0</mongodb.driver.sync.version>
         <logback.version>1.2.11</logback.version>
