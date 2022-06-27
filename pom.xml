@@ -18,7 +18,7 @@
         <spring.statemachine.version>3.2.0</spring.statemachine.version>
         <reflections.version>0.10.2</reflections.version>
         <jmh.version>1.35</jmh.version>
-        <openfeign.version>11.8</openfeign.version>
+        <openfeign.version>11.9</openfeign.version>
         <byte.buddy.version>1.12.10</byte.buddy.version>
         <jpinyin.version>1.1.8</jpinyin.version>
         <joda.time.version>2.10.14</joda.time.version>
