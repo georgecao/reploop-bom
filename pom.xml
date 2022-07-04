@@ -116,7 +116,7 @@
         <toolchains.plugin.version>3.0.0</toolchains.plugin.version>
         <jetty.plugin.version>11.0.9</jetty.plugin.version>
         <shade.plugin.version>3.3.0</shade.plugin.version>
-        <assembly.plugin.version>3.3.0</assembly.plugin.version>
+        <assembly.plugin.version>3.4.0</assembly.plugin.version>
         <compiler.plugin.version>3.10.1</compiler.plugin.version>
         <war.plugin.version>3.3.2</war.plugin.version>
         <source.plugin.version>3.2.1</source.plugin.version>
