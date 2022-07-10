@@ -113,7 +113,7 @@
         <raincat.springcloud.version>2.0.1-RELEASE</raincat.springcloud.version>
         <dozer.version>5.5.1</dozer.version>
         <mybatis.typehandlers.jsr310.version>1.0.2</mybatis.typehandlers.jsr310.version>
-        <toolchains.plugin.version>3.0.0</toolchains.plugin.version>
+        <toolchains.plugin.version>3.1.0</toolchains.plugin.version>
         <jetty.plugin.version>11.0.9</jetty.plugin.version>
         <shade.plugin.version>3.3.0</shade.plugin.version>
         <assembly.plugin.version>3.4.1</assembly.plugin.version>
