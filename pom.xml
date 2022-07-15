@@ -32,7 +32,7 @@
         <aliyun.log.version>0.6.70</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.0</aliyun.java.sdk.sts.version>
         <aliyun.java.sdk.cms.version>7.0.44</aliyun.java.sdk.cms.version>
-        <alipay.sdk.java.version>4.31.12.ALL</alipay.sdk.java.version>
+        <alipay.sdk.java.version>4.31.64.ALL</alipay.sdk.java.version>
         <alipay.easysdk.version>2.2.2</alipay.easysdk.version>
         <springdoc.version>1.6.9</springdoc.version>
         <assertj.version>3.23.1</assertj.version>
