@@ -99,7 +99,7 @@
         <xxl.job.version>2.3.1</xxl.job.version>
         <tika.version>2.4.1</tika.version>
         <log.loghub.producer.version>0.1.16</log.loghub.producer.version>
-        <aliyun.java.sdk.ons.version>3.2.1</aliyun.java.sdk.ons.version>
+        <aliyun.java.sdk.ons.version>3.2.2</aliyun.java.sdk.ons.version>
         <aliyun.java.sdk.core.version>4.6.2</aliyun.java.sdk.core.version>
         <skywalking.version>8.8.0</skywalking.version>
         <mockito.version>1.10.19</mockito.version>
