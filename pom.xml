@@ -18,7 +18,7 @@
         <spring.statemachine.version>3.2.0</spring.statemachine.version>
         <reflections.version>0.10.2</reflections.version>
         <jmh.version>1.35</jmh.version>
-        <openfeign.version>11.9.1</openfeign.version>
+        <openfeign.version>11.10</openfeign.version>
         <byte.buddy.version>1.12.16</byte.buddy.version>
         <jpinyin.version>1.1.8</jpinyin.version>
         <joda.time.version>2.11.1</joda.time.version>
@@ -60,7 +60,7 @@
         <spring.boot.version>2.7.3</spring.boot.version>
         <spring.cloud.version>2021.0.4</spring.cloud.version>
         <spring.cloud.config.version>3.1.4</spring.cloud.config.version>
-        <spring.version>5.3.22</spring.version>
+        <spring.version>5.3.23</spring.version>
         <spring.amqp.version>2.4.6</spring.amqp.version>
         <mybatis.version>3.5.10</mybatis.version>
         <mybatis.spring.version>2.0.7</mybatis.spring.version>
