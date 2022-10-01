@@ -80,7 +80,7 @@
         <deploy.env>dev</deploy.env>
         <guava.version>31.1-jre</guava.version>
         <commons.math3.version>3.6.1</commons.math3.version>
-        <json.version>20220320</json.version>
+        <json.version>20220924</json.version>
         <skipTests>true</skipTests>
         <jackson.version>2.13.4</jackson.version>
         <hibernate.validator.version>8.0.0.Final</hibernate.validator.version>
