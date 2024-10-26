@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        java: [ '22' ]
+        java: [ '21' ]
     permissions:
       contents: read
       packages: write
