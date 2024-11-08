@@ -26,7 +26,7 @@
         <dom4j.java8.version>2.1.4</dom4j.java8.version>
         <commons.compress.version>1.27.1</commons.compress.version>
         <commons.fileupload.version>1.5</commons.fileupload.version>
-        <xstream.version>1.4.20</xstream.version>
+        <xstream.version>1.4.21</xstream.version>
         <aliyun.sdk.version>3.18.1</aliyun.sdk.version>
         <phoenix.version>5.2.0</phoenix.version>
         <aliyun.log.version>0.6.112</aliyun.log.version>
