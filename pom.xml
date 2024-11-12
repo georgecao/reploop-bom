@@ -28,7 +28,7 @@
         <commons.fileupload.version>1.5</commons.fileupload.version>
         <xstream.version>1.4.20</xstream.version>
         <aliyun.sdk.version>3.18.1</aliyun.sdk.version>
-        <phoenix.version>5.2.0</phoenix.version>
+        <phoenix.version>5.2.1</phoenix.version>
         <aliyun.log.version>0.6.112</aliyun.log.version>
         <aliyun.java.sdk.sts.version>3.1.2</aliyun.java.sdk.sts.version>
         <aliyun.java.sdk.cms.version>7.0.46</aliyun.java.sdk.cms.version>
