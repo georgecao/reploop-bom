@@ -71,7 +71,7 @@
         <micrometer.version>1.13.6</micrometer.version>
         <mysql.connector.version>8.0.33</mysql.connector.version>
         <mongodb.driver.sync.version>5.2.0</mongodb.driver.sync.version>
-        <logback.version>1.5.12</logback.version>
+        <logback.version>1.5.14</logback.version>
         <netty.version>4.1.114.Final</netty.version>
         <junit.version>4.13.2</junit.version>
         <testng.version>7.10.2</testng.version>
